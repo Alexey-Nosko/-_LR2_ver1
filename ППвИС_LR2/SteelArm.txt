@@ -1,0 +1,1 @@
+steel;20;500;Shestov;1250
